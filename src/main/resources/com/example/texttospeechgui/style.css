@@ -1,0 +1,44 @@
+.body {
+    -fx-background: #1ccfd5;
+}
+
+.text-to-speech-label{
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px;
+}
+
+.text-area{
+    -fx-font-size: 16px;
+    -fx-control-inner-background: #207c81;
+
+}
+
+.setting-label{
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+
+}
+
+.setting-combo-box {
+    -fx-font-size: 16px;
+    -fx-control-inner-background: #0c5355;
+    -fx-background-color: #04373a;
+}
+
+.setting-combo-box .list-cell{
+    -fx-text-fill: white;
+}
+
+
+.speak-btn{
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-background-color: rgba(12, 83, 85, 0.57);
+    -fx-text-fill: white;
+    -fx-padding: 0;
+}
+
+.speak-btn:pressed{
+    -fx-opacity: 0.70;
+}
