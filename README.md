@@ -14,9 +14,9 @@ Welcome to the **Text-To-Speech GUI Application**! This is a JavaFX application 
 
 Below are some screenshots of the application:
 
-![Screenshot 1](src/main/resources/com/example/texttospeechgui/Screenshot1.png)
-![Screenshot 2](src/main/resources/com/example/texttospeechgui/Screenshot2.png)
-![Screenshot 3](src/main/resources/com/example/texttospeechgui/Screenshot3.png)
+<img src="src/main/resources/com/example/texttospeechgui/Screenshot1.png" width="300" />
+<img src="src/main/resources/com/example/texttospeechgui/Screenshot2.png" width="300" />
+<img src="src/main/resources/com/example/texttospeechgui/Screenshot3.png" width="300" />
 
 ## Getting Started
 
